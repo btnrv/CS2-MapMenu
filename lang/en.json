@@ -1,0 +1,8 @@
+{
+    "Prefix": "{darkblue}[Map]{white} ",
+    
+    "MapMenuTitle": "Map Menu",
+    "NoPermission": "You have {darkred}insufficient permission{white} to use this command.",
+    "MapMenuDescription": "Opens the menu required to open a map on the server.",
+    "MapMenuOpen": "Map menu {lime}successfully {white}opened."
+}

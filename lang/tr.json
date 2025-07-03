@@ -1,0 +1,8 @@
+{
+    "Prefix": "{darkblue}[Harita]{white} ",
+    
+    "MapMenuTitle": "Harita Menüsü",
+    "NoPermission": "Bu komutu kullanmak için {darkred}izniniz yetersiz{white}.",
+    "MapMenuDescription": "Sunucuda harita açmak için gereken menüyü açar.",
+    "MapMenuOpen": "Harita menüsü {lime}başarıyla {white}açıldı."
+}
