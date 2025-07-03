@@ -28,4 +28,4 @@ Edit `configs/plugins/MapMenuPlugin/Mapmenuplugin.cfg` to list your frequently u
 
   "menu_type": "WasdMenu",
   "ConfigVersion": 1
-}```
+}
