@@ -5,9 +5,9 @@ A simple Counter-Strike 2 server plugin that provides an in-game menu for loadin
 <p align="center"> <img src="https://i.hizliresim.com/ray3fxd.png" alt="MapMenu Screenshot" width="300"/> </p>
 
 ## Installation
-
-1. **Download** the plugin and place it into the server files.
-2. **Restart** your server.
+1. Install [CS2MenuManager by schwarper](https://github.com/schwarper/CS2MenuManager)
+2. **Download** the plugin and place it into the server files.
+3. **Restart** your server.
 
 ## ⚠️ Required Configuration
 
