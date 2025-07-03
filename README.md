@@ -2,7 +2,7 @@
 
 A simple Counter-Strike 2 server plugin that provides an in-game menu for loading workshop maps by name, so you don’t have to remember or re-type map IDs each time you run `host_workshop_map`.
 
-![plugin menu](https://i.hizliresim.com/ray3fxd.png "Image"
+![Image](https://github.com/user-attachments/assets/5bdb10ce-64db-4695-b914-8cce2f33cb8a)
 
 ## Installation
 1. Install [CS2MenuManager by schwarper](https://github.com/schwarper/CS2MenuManager)
